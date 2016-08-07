@@ -1,10 +1,6 @@
 # fonsecaA-Week7_CST100_Java_Exercises_Aaron_Fonseca
 fonsecaA-Week7_CST100_Java_Exercises_Aaron_Fonseca
 
-##Objective:
-
-Write methods and recursive methods.
-
 ##Assignment Description: 
 
 The programming exercises require students to work with text input and output (TextIO).
